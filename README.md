@@ -1,2 +1,4 @@
 # content_guard
-我注意到有些人將縮圖、名稱、內容都原封不動地轉傳到"其他影音平台"來營利，甚至其中有少許人完全沒有標註來源，我認為這是對YouTuber本人非常嚴重的侵權，所以我想透過這個自發專案來掃描這些內容。提前聲明，此專案只針對內容朴竊者，並非"其他影音平台"。
+I have noticed that some people transfer the thumbnails, names, and content intact to "other audio-visual platforms" for profit, and even a few of them do not indicate the source at all. I think this is a very serious infringement of the YouTuber himself, so I want to scan these contents through this spontaneous project. I hereby declare that this project is only aimed at the group of people who stole the creative content, not "other audio-visual platforms".
+
+—Translated by Google
